@@ -1,1 +1,2 @@
-Feature2
+# Feature2
+from pyspark.sql import SparkSession
